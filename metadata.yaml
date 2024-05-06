@@ -1,0 +1,33 @@
+_repo: Talven-tullessa-b-Runoja_73432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orpana, Topi
+    aliases:
+    - Suur-Juhola, Juhani
+    - Orpana, Tobias
+    birthdate: 1886
+    deathdate: 1930
+    gutenberg_agent_id: '57066'
+    url: http://www.gutenberg.org/2009/agents/57066
+    wikipedia: https://fi.wikipedia.org/wiki/Topi_Orpana
+description: ''
+gutenberg_issued: '2024-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73432'
+language: fi
+pgterms:marc905: 20240412023536suurjuhola
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bYrjö Weilin & Kumpp., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Talven tullessa : $b Runoja'
+url: http://www.gutenberg.org/ebooks/73432
