@@ -1,5 +1,8 @@
 _repo: Talven-tullessa-b-Runoja_73432
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orpana, Topi
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57066
     wikipedia: https://fi.wikipedia.org/wiki/Topi_Orpana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73432#Talven-tullessa-b-Runoja
 gutenberg_issued: '2024-04-19'
 gutenberg_type: Text
 identifiers:
